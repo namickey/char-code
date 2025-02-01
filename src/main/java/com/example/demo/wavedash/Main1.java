@@ -5,7 +5,7 @@ import java.nio.charset.Charset;
 
 import javax.xml.bind.DatatypeConverter;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         //全角チルダ
         String fullwidth_tilde_char = "～";
